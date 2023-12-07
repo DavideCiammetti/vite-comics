@@ -13,9 +13,15 @@
 </script>
 
 <template>
+  <!-- header -->
   <AppHeader></AppHeader>
+   <!-- header -->
+   <!-- main -->
   <AppMain></AppMain>
+  <!-- main -->
+  <!-- footer -->
   <AppFooter></AppFooter>
+  <!-- footer -->
 </template>
 
 <style scoped>
