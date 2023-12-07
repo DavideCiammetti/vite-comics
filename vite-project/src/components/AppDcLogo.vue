@@ -12,7 +12,7 @@
 
 <style scoped>
 .logo{
-    padding: 19px 0;
+    padding: 1.1875rem 0;
     .img{
         width: 100%;
     }

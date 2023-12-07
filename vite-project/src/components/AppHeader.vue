@@ -66,7 +66,7 @@
     padding: 56px 0 48px 0;
     
         span{
-            margin-left: 100px;
+            margin-left: 5.5rem;
             a{
                 text-decoration: none;
                 color: $col-white;
