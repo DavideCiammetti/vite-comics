@@ -47,6 +47,7 @@
                 align-items: center;
                     .follow{
                         margin-right: 7px;
+                        color: $bg-blue;
                     }
 
                     ul{
