@@ -10,31 +10,31 @@
             <ul>
                 <li class="list-menu">
                     <div class="img-container padd-img">
-                        <img src="../../public/img/buy-comics-digital-comics.png" alt="buy.img" >
+                        <img src="../../public/img/buy-comics-digital-comics.png" alt="dc.img" >
                     </div>
                    <p> digital comics</p>
                 </li>
                 <li class="list-menu">
                     <div class="img-container"> 
-                        <img src="../../public/img/buy-comics-merchandise.png" alt="buy.img">
+                        <img src="../../public/img/buy-comics-merchandise.png" alt="merchandise.img">
                     </div>
                    <p> dc merchandise</p>
                 </li>
                 <li class="list-menu">
                     <div class="img-container">   
-                        <img src="../../public/img/buy-comics-subscriptions.png" alt="buy.img">
+                        <img src="../../public/img/buy-comics-subscriptions.png" alt="subscription.img">
                     </div>
                  <p> subscription</p>
                 </li>
                 <li class="list-menu">
                    <div class="img-container padd-img"> 
-                        <img src="../../public/img/buy-comics-shop-locator.png" alt="buy.img" >
+                        <img src="../../public/img/buy-comics-shop-locator.png" alt="comic.img" >
                     </div>
                     <p>comic shop locator</p>
                 </li>
                 <li class="list-menu">
                   <div class="img-container">  
-                    <img src="../../public/img/buy-dc-power-visa.svg" alt="buy.img">
+                    <img src="../../public/img/buy-dc-power-visa.svg" alt="power.img">
                 </div>
                    <p> dc power visa</p>
                 </li>
@@ -50,6 +50,8 @@
     display: $d-flex;
     justify-content: center;
     padding: 1.3125rem;
+    position: relative;
+    z-index: 22222;
 
         ul{
             display: $d-flex;

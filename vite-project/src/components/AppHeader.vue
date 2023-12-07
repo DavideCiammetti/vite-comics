@@ -28,11 +28,6 @@
                 </ul>
             </nav>
         </div>
-        <div class="content-container">
-            <span>
-                <a href="#">Content goes here</a>
-            </span>
-        </div>
      </header>
 </template>
 
@@ -59,20 +54,5 @@
             }
 }
 // navbar container
-// secondo container
-.content-container{
-    background-color: $bg-black;
-    color: $col-white;
-    padding: 56px 0 48px 0;
-    
-        span{
-            margin-left: 5.5rem;
-            a{
-                text-decoration: none;
-                color: $col-white;
-                font-size: 25px;
-            }
-        }
-}
-// secondo container
+
 </style>
