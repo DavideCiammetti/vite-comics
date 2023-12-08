@@ -11,8 +11,10 @@ import AppFootNav from './AppFootNav.vue';
 </script>
 
 <template>
-   <AppInfoMain></AppInfoMain>
-   <AppFootNav></AppFootNav>
+   <footer>
+        <AppInfoMain></AppInfoMain>
+        <AppFootNav></AppFootNav>
+   </footer>
 </template>
 
 <style scoped lang="scss">
