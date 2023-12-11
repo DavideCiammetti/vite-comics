@@ -39,7 +39,8 @@
         display: $d-flex;
         justify-content: space-around;
         background-color: $foot-bg;
-        padding: 29px;
+        height: 130px;
+        align-items: center;
         position: relative;
         z-index: 22222;
             .social-container{

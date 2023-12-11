@@ -2,12 +2,14 @@
   import AppMain from './components/AppMain.vue';
   import AppHeader from './components/AppHeader.vue';
   import AppFooter from './components/AppFooter.vue';
+  import CardsData from './components/cardsData.vue';
   export default{
     name: 'FirstApp',
     components:{
       AppMain,
       AppHeader,
       AppFooter,
+      CardsData,
     }
   }
 </script>
