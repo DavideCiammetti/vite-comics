@@ -53,7 +53,6 @@
 
                     ul{
                     display: $d-flex;
-                    list-style: none;
                         .social-ico{
                             color: white;
                             padding: 10px;

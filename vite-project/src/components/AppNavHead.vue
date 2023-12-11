@@ -42,7 +42,6 @@
         // ul
         .list-container{
             display: $d-flex;
-            list-style: none;
         }
             // li
             .list{

@@ -55,7 +55,6 @@
 
         ul{
             display: $d-flex;
-            list-style: none;
                 .list-menu{
                     text-transform: uppercase;
                     padding: .9375rem;
