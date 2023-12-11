@@ -39,7 +39,7 @@
         display: $d-flex;
         justify-content: space-around;
         background-color: $foot-bg;
-        height: 130px;
+        height: 100px;
         align-items: center;
         position: relative;
         z-index: 22222;

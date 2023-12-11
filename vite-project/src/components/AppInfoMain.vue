@@ -179,7 +179,7 @@
         .dc-img-big{
             position: absolute;
             left: 55%;
-            bottom: -34%;
+            top: -100px;
         }
 }
 
